@@ -5,3 +5,4 @@ test
 
 git commit
 
+git push
